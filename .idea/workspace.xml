@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="450ab4b7-ef7f-4c8b-9a50-dd9b366abdbf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/141_Linked_List_Cycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/155_Min_Stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/160_Intersection_of_Two_Linked_Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167_Two_Sum_II_Input_array_is_sorted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/168_Excel_Sheet_Column_Title.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,33 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/119_Pascal's_Triangle_II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/122_Best_Time_to_Buy_and_Sell_Stock_II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/125_Valid_Palindrome.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/136_Single_Number.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -59,11 +33,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/155_Min_Stack.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/167_Two_Sum_II_Input_array_is_sorted.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/168_Excel_Sheet_Column_Title.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/160_Intersection_of_Two_Linked_Lists.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
             </state>
           </provider>
         </entry>
@@ -158,6 +159,9 @@
         <option value="$PROJECT_DIR$/136_Single_Number.py" />
         <option value="$PROJECT_DIR$/141_Linked_List_Cycle.py" />
         <option value="$PROJECT_DIR$/155_Min_Stack.py" />
+        <option value="$PROJECT_DIR$/167_Two_Sum_II_Input_array_is_sorted.py" />
+        <option value="$PROJECT_DIR$/168_Excel_Sheet_Column_Title.py" />
+        <option value="$PROJECT_DIR$/160_Intersection_of_Two_Linked_Lists.py" />
       </list>
     </option>
   </component>
@@ -222,12 +226,12 @@
       <workItem from="1551763878990" duration="2311000" />
       <workItem from="1551935749945" duration="4184000" />
       <workItem from="1552368972498" duration="701000" />
-      <workItem from="1552454783001" duration="557000" />
+      <workItem from="1552454783001" duration="942000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9961000" />
+    <option name="totallyTimeSpent" value="10346000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -512,7 +516,28 @@
     <entry file="file://$PROJECT_DIR$/155_Min_Stack.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/167_Two_Sum_II_Input_array_is_sorted.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/168_Excel_Sheet_Column_Title.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/160_Intersection_of_Two_Linked_Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>

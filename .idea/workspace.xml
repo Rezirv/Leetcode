@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="450ab4b7-ef7f-4c8b-9a50-dd9b366abdbf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/196_Delete_Duplicate_Emails.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/197_Rising_Temperature.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/198_House_Robber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/202_Happy_Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/203_Remove_Linked_List_Elements.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +56,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/196_Delete_Duplicate_Emails.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -65,19 +66,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/175_Combine_Two_Tables.sql">
+        <entry file="file://$PROJECT_DIR$/203_Remove_Linked_List_Elements.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="300">
+              <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/191_Number_of_1_Bits.py">
+        <entry file="file://$PROJECT_DIR$/198_House_Robber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/202_Happy_Number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/175_Combine_Two_Tables.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -100,24 +119,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20_Valid_Parentheses.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/15_3Sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -133,9 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/e.py" />
-        <option value="$PROJECT_DIR$/9_Palindrome_Number.py" />
-        <option value="$PROJECT_DIR$/13_Roman_to_Integer.py" />
         <option value="$PROJECT_DIR$/14_Longest_Common_Prefix.py" />
         <option value="$PROJECT_DIR$/20_Valid_Parentheses.py" />
         <option value="$PROJECT_DIR$/15_3Sum.py" />
@@ -184,6 +182,9 @@
         <option value="$PROJECT_DIR$/191_Number_of_1_Bits.py" />
         <option value="$PROJECT_DIR$/197_Rising_Temperature.sql" />
         <option value="$PROJECT_DIR$/196_Delete_Duplicate_Emails.sql" />
+        <option value="$PROJECT_DIR$/203_Remove_Linked_List_Elements.py" />
+        <option value="$PROJECT_DIR$/198_House_Robber.py" />
+        <option value="$PROJECT_DIR$/202_Happy_Number.py" />
       </list>
     </option>
   </component>
@@ -250,12 +251,12 @@
       <workItem from="1552368972498" duration="701000" />
       <workItem from="1552454783001" duration="1145000" />
       <workItem from="1552627293093" duration="3507000" />
-      <workItem from="1552976309276" duration="398000" />
+      <workItem from="1552976309276" duration="2558000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14454000" />
+    <option name="totallyTimeSpent" value="16614000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -288,27 +289,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/27_Remove_Element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/28_Implement_strStr().py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/35_Search_Insert_Position.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/38_Count_and_Say.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -638,6 +618,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="200" selection-start-line="2" selection-start-column="200" selection-end-line="2" selection-end-column="200" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/203_Remove_Linked_List_Elements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/198_House_Robber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/202_Happy_Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>

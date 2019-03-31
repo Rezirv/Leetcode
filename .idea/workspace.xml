@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="450ab4b7-ef7f-4c8b-9a50-dd9b366abdbf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/242_Valid_Anagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/257_Binary_Tree_Paths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/258_Add_Digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/263_Ugly_Number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,15 +29,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/101_Symmetric_Tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/226_Invert_Binary_Tree.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -90,11 +83,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/242_Valid_Anagram.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/257_Binary_Tree_Paths.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/258_Add_Digits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/263_Ugly_Number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -114,9 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/67_Add_Binary.py" />
-        <option value="$PROJECT_DIR$/69_Sqrt(x).py" />
-        <option value="$PROJECT_DIR$/70_Climbing_Stairs.py" />
         <option value="$PROJECT_DIR$/83_Remove_Duplicates_from_Sorted_List.py" />
         <option value="$PROJECT_DIR$/88_Merge_Sorted_Array.py" />
         <option value="$PROJECT_DIR$/100_Same_Tree.py" />
@@ -165,13 +182,15 @@
         <option value="$PROJECT_DIR$/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.py" />
         <option value="$PROJECT_DIR$/237_Delete_Node_in_a_Linked_List.py" />
         <option value="$PROJECT_DIR$/242_Valid_Anagram.py" />
+        <option value="$PROJECT_DIR$/257_Binary_Tree_Paths.py" />
+        <option value="$PROJECT_DIR$/258_Add_Digits.py" />
+        <option value="$PROJECT_DIR$/263_Ugly_Number.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="801" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -180,7 +199,20 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -222,18 +254,19 @@
       <workItem from="1552976309276" duration="3607000" />
       <workItem from="1553329549527" duration="3407000" />
       <workItem from="1553584904127" duration="1076000" />
-      <workItem from="1553786341013" duration="550000" />
+      <workItem from="1553786341013" duration="609000" />
+      <workItem from="1554023121976" duration="777000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22696000" />
+    <option name="totallyTimeSpent" value="23532000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.28540772" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28898427" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -260,27 +293,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/125_Valid_Palindrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/136_Single_Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/141_Linked_List_Cycle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/155_Min_Stack.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -601,7 +613,28 @@
     <entry file="file://$PROJECT_DIR$/242_Valid_Anagram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/257_Binary_Tree_Paths.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/258_Add_Digits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/263_Ugly_Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>

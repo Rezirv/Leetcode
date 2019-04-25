@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="450ab4b7-ef7f-4c8b-9a50-dd9b366abdbf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/414_Third_Maximum_Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/415_Add_Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/429_N-ary_Tree_Level_Order_Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/434_Number_of_Segments_in_a_String.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,15 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/404_Sum_of_Left_Leaves.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/405_Convert_a_Number_to_Hexadecimal.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -73,20 +64,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/415_Add_Strings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/387_First_Unique_Character_in_a_String.py">
+        <entry file="file://$PROJECT_DIR$/429_N-ary_Tree_Level_Order_Traversal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="17" selection-start-line="2" selection-start-column="8" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="315">
+              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/434_Number_of_Segments_in_a_String.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -133,8 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/181_Employees_Earning_More_Than_Their_Managers.sql" />
-        <option value="$PROJECT_DIR$/182_Duplicate_Emails.sql" />
         <option value="$PROJECT_DIR$/183_Customers_Who_Never_Order.sql" />
         <option value="$PROJECT_DIR$/189_Rotate_Array.py" />
         <option value="$PROJECT_DIR$/190_Reverse_Bits.py" />
@@ -184,12 +182,16 @@
         <option value="$PROJECT_DIR$/412_Fizz_Buzz.py" />
         <option value="$PROJECT_DIR$/414_Third_Maximum_Number.py" />
         <option value="$PROJECT_DIR$/415_Add_Strings.py" />
+        <option value="$PROJECT_DIR$/429_N-ary_Tree_Level_Order_Traversal.py" />
+        <option value="$PROJECT_DIR$/434_Number_of_Segments_in_a_String.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="424" />
+    <option name="y" value="470" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="801" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -259,16 +261,15 @@
       <workItem from="1554096165995" duration="388000" />
       <workItem from="1554181507481" duration="512000" />
       <workItem from="1554269568014" duration="5089000" />
-      <workItem from="1555997729653" duration="756000" />
+      <workItem from="1555997729653" duration="1543000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32663000" />
+    <option name="totallyTimeSpent" value="33450000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3104435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -297,20 +298,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/204_Count_Primes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/205_Isomorphic_Strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/206_Reverse_Linked_List.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -638,7 +625,21 @@
     <entry file="file://$PROJECT_DIR$/415_Add_Strings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/429_N-ary_Tree_Level_Order_Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/434_Number_of_Segments_in_a_String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
         </state>
       </provider>
     </entry>
